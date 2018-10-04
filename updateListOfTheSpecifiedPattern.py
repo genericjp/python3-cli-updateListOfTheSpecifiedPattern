@@ -13,7 +13,7 @@
              among the execution process which is the history showing the progress
              reflecting the process of evolution of various models of skeleton. 
           2) Handling of tree commands.
-             on each OS such as windows / linux is not unified 
+             on each OS such as windows / linux is not unified. 
           3) I would like to use any OS-independent wrappers. 
        [動機
 　　　　　指定したパス（ディレクトリ）下の
