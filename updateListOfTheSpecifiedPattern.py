@@ -81,7 +81,7 @@
         ]
 
  History
-     2018/10/04 12:50 (JST,UTC+9h)  v1 0 0 by ShozoNamikawa
+     2018/10/04 12:50 (JST,UTC+9h)  v1.0.0 by ShozoNamikawa
 
 """
 
